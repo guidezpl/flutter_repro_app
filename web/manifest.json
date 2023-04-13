@@ -1,6 +1,6 @@
 {
-    "name": "repro_app",
-    "short_name": "repro_app",
+    "name": "flutter_repro_app",
+    "short_name": "flutter_repro_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

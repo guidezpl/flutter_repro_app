@@ -4,8 +4,8 @@
 # This file should be version controlled.
 
 version:
-  revision: 9b13fda304f79ab10c1575a487096d0e64773dae
-  channel: master
+  revision: f35b02016e410d970ed3c5737c42a4171df5c094
+  channel: fix-vscode-formatting
 
 project_type: app
 
@@ -13,26 +13,26 @@ project_type: app
 migration:
   platforms:
     - platform: root
-      create_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
-      base_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
+      create_revision: f35b02016e410d970ed3c5737c42a4171df5c094
+      base_revision: f35b02016e410d970ed3c5737c42a4171df5c094
     - platform: android
-      create_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
-      base_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
+      create_revision: f35b02016e410d970ed3c5737c42a4171df5c094
+      base_revision: f35b02016e410d970ed3c5737c42a4171df5c094
     - platform: ios
-      create_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
-      base_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
+      create_revision: f35b02016e410d970ed3c5737c42a4171df5c094
+      base_revision: f35b02016e410d970ed3c5737c42a4171df5c094
     - platform: linux
-      create_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
-      base_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
+      create_revision: f35b02016e410d970ed3c5737c42a4171df5c094
+      base_revision: f35b02016e410d970ed3c5737c42a4171df5c094
     - platform: macos
-      create_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
-      base_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
+      create_revision: f35b02016e410d970ed3c5737c42a4171df5c094
+      base_revision: f35b02016e410d970ed3c5737c42a4171df5c094
     - platform: web
-      create_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
-      base_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
+      create_revision: f35b02016e410d970ed3c5737c42a4171df5c094
+      base_revision: f35b02016e410d970ed3c5737c42a4171df5c094
     - platform: windows
-      create_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
-      base_revision: 9b13fda304f79ab10c1575a487096d0e64773dae
+      create_revision: f35b02016e410d970ed3c5737c42a4171df5c094
+      base_revision: f35b02016e410d970ed3c5737c42a4171df5c094
 
   # User provided section
 
